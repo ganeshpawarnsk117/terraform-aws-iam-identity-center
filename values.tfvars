@@ -1,0 +1,1 @@
+permission_set_name = "my-s3-permissionset"
